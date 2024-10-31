@@ -1,0 +1,8 @@
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\ahmet\Desktop\murat yücedağ\CSharpEgitim\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
