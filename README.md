@@ -2,6 +2,7 @@
 
 
 📍 Proje1 -->  Birinci kısımda İlk olarak temel yazdırma komutları ve değişkenler üzerine olacaktır ve Üç ana başlık altında birinci kısmı bitireceğiz, bu başlıklar sırasıyla;
+
 	1-)Yazdırma Komutları
 		İlk ders ilk kod olduğu için ilk olarak konsol ekranımızda "Merhaba Dünya" yazdırmak oldu. Bunun için öğreneceğimiz iki adet komutumuz var. Bunlardan ilki -Console.Write()- bu komut ekrana mesaj gönderir lakin imleci mesajın hemen yanında bırakır. 
     Bu komuttan sonra başka bir mesaj verilecek veya bir ifade gelecekse hemen yanı başına gelir bu istemiyorsak diğer komutumuz olan -Console.WriteLine()- kullanırız bu komut ise mesajı gönderdikten sonra imleci bir alt satıra gönderir. 
@@ -18,6 +19,7 @@
 
 
 📍 Proje2 --> İkinci kısımda biraz daha değişkenler ve kullanıcıdan veri alma üzerinde duracağız. Dört adet konu başlığında inceleyeceğiz, bu konu başlıkları sırasıyla;
+
 	1-)Double Değişkenler
 		Double değişkenler ondalıklı sayılarla işlem yapmamız gerektiğinde kullancağımız kullanabilceğimiz bir veri türüdür.Mesela uygulamamızda da olduğu üzere bir manavda satılan ürünlerin fiyatını hesaplarken eğer integer kullanırsak hatalı bir yol izlemiş oluruz.
     Çünkü bir ürünün kilogram fiyatı ondalıklı olabilir ürün kilogramıda ondalıklı olabilir bu yüzden double kullanarak daha sağlıklı sonuçlar elde edebiliriz.
@@ -38,6 +40,7 @@
 
 
 📍 Proje3 --> Üçüncü kısımda karak yapıları ve örnek uygulamamız olacak bu kısmı dört başlık altında inceleyeceğiz;
+
 	1-)If - Else Yapıları
 		If - Else yani karar yapıları bir kontrol mekanizmasıdır aslında yani ifadenin doğru olup olmadığını kontrol eder doğru ise farklı yanlış ise farklı davranmayı sağar mesela parola doğrulaması gibi düşünürsek doğru ise sisteme erişim açılacaktır. 
     Değil ise parola yanlış yantını döndürecek sisteme erişim izni verilmeyecektir. Örnek uygulamamızda da parola doğrulama sistemi var.
@@ -55,6 +58,7 @@
 
 
 📍 Proje4 -->Dördüncü kısımda for döngüsü, while döngüsü ve örnek soru olacak bu kısmı üç başlık altında inceleyeceğiz;
+
 	1-)For Döngüsü
 		For döngüsü listeler dizi yapıları veya işlem bitene kadar çalışmasını istediğimiz yapıları kullanırken faydalanacağımız kullanım alanı geniş olan bir döngüdür karar yapıları ile birliktede kullanımını örnek kod parçamızda gördük.
     Kullanımı syntax kısmı şu şekildedir: -for(x;y;z)- burada "x" ifadesi başlangıç değerini "y" ifadesi bitiş değerini "z" ifadesi ise artış-azalış değerini tutar.Örnek uygulamamızda bir mesajımız var ama bu mesajı beş kez ekrana yazdırmak isityoruz.
@@ -74,6 +78,7 @@
 
 
 📍 Proje5 --Beşinci kısımda altı adet örneği ele alacağız bol bol örnek içeren bu kısımda şimdiye kadar öğrendiklerimizin neredeyse hepsini kullanmış olacağız;
+
 	1-)Örnek
 		Alt alta 10 tane yıldız oluşturduğumuz kodumuzda başlangıç değeri için 1 ve programın 10'a küçük veya eşit olana kadar devam etmesini her seferinde başlangıç değerinin bir artmasını içeren for döngüsünü yazdık. 
     For döngüsünün içerisine ise -Console.WriteLine("*")- komutunu yazarak alt alta 10 adet yıldız yazdırmış olduk. 
@@ -103,6 +108,7 @@
 
 
 📍 Proje6 -->Altıncı kısımda diziler üzerine ele alacağız örnekler yapılar olmak üzere Dört Başlık altında inceleyeceğiz;
+
 	1-)Temel Dizi Örnekleri
 		Diziler aynı türden ifadeleri bir arada tutmaya yarar. Dizileri tanımlarkan izlediğimiz yol şudur: -DeğişkenTürü [] DiziAdı = new DeğişkenTürü[elemansayısı]- bu şekilde istediğimiz dizileri tanımlarız dizilerin indisi eğer biz belirtmemişsek "[0]" sıfır ile başlar. 
   
@@ -122,6 +128,7 @@
 
 
 📍 Proje7 -->Yedinci kısımda foreach döngüsünü ele alacağız ve örnek soru olacak bu kısmı iki başlık altında inceleyeceğiz;
+
 	1-)Foreach Döngüsü
 		Foreach yapısı diziler üzerinde yineleme yapmayı kolaylaştırmaktadır. Foreach yalnızca diziler ve nesneler için kullanılabilir. Nesneler arası gezinmeyi sağlar.
     Kullanımı şöyle olmalıdır:  foreach(1;2;3;4) buradaki 1 ifadesi değişken türü 2 ifadesi değişken adı 3 ifadesi In kısmı 4 ifadesi ise liste, koleksiyon veya diziyi ifade eder  
@@ -137,6 +144,7 @@
 
 
 📍 Proje8 -->Sekizinci kısımda void mothotlar geriye değer döndürebilen ve döndüremeyen olarak ayrı başlıklarda ve örnek soru olacak bu kısmı dört başlık altında inceleyeceğiz;
+
 	1-)Void Methotları
 		Bir Yapıyı Method Yapan Şey ()'dir geriye değer döndüren ve döndürmeyen olarak sınfılandırılabilir.
 		
